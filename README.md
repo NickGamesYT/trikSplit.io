@@ -1,0 +1,2 @@
+# trikSplit.io
+triksplit.io
